@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My first Git Repo.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-tiger/my-first-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simon-tiger/my-first-git/issues"
+  },
+  "homepage": "https://github.com/simon-tiger/my-first-git#readme"
+}
